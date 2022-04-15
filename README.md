@@ -1,5 +1,5 @@
 <h2> Hello! My name is Grzegorz Wolfinger.</h2>
-<p>I'm an entry-level, web designer.</p>
+<h3>I'm an entry-level, web designer.</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -17,8 +17,8 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)    
 - 🛢 &nbsp;
@@ -42,6 +42,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/grzegorz-wolfinger-b88856229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Grzegorz%20Wolfinger%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mail.google.com"><img alt="Email" src="https://img.shields.io/badge/Email-grzegorz.wolfinger@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:grzegorz.wolfinger@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-grzegorz.wolfinger@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

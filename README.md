@@ -5,7 +5,7 @@
 
 - 💞️ &nbsp; I'm looking for a position as an entry-level web developer.
 - 🤔 &nbsp; My carieer goal as a software developer is to become an expert in a programming languages like
-            JavaScript, Typescript and master it with other usefull frameworks (React.js, Node.js, Express.js)
+            JavaScript, Typescript and master there with other usefull frameworks (React.js, Node.js, Express.js)
             
 - 🎓 &nbsp; Certificate of Completion The Modern Javascript Bootcamp (2022) on Udemy
 - 🎓 &nbsp; Certificate of Completion The Web Developer Bootcamp (2022) on Udemy

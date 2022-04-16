@@ -1,12 +1,10 @@
 <h2> Hello! My name is Grzegorz Wolfinger.</h2>
 <h3>I'm an entry-level, web designer.</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 🧑🏻‍💻 &nbsp;About Me </h3>
 
-- 💞️ &nbsp; I'm looking for a position as an entry-level web developer.
-- 🤔 &nbsp; My carieer goal as a software developer is to become an expert in a programming languages like
-            JavaScript, Typescript and master there with other usefull frameworks (React.js, Node.js, Express.js)
-            
+- ⌨️ &nbsp; I'm looking for a position as an entry-level web developer.
+- 🤔 &nbsp; My career goal as a software developer is to become an expert in a programming languages JavaScript, Typescript , master them and other frameworks (React.js, Node.js, Express.js)
 - 🎓 &nbsp; Certificate of Completion The Modern Javascript Bootcamp (2022) on Udemy
 - 🎓 &nbsp; Certificate of Completion The Web Developer Bootcamp (2022) on Udemy
 - 🌱 &nbsp; I’m really excited about the prospect of learning and acquiring new skills.
@@ -37,6 +35,9 @@
 </a>
 
 <br/>
+
+<h3> 🖥️ &nbsp; My projects </h3>
+- 🏕️ &nbsp; <a href="https://yelp-camp2022-gw.herokuapp.com/">YelpCamp</a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

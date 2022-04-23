@@ -5,6 +5,7 @@
 
 - ⌨️ &nbsp; I'm looking for a position as an entry-level web developer.
 - 🤔 &nbsp; My career goal as a software developer is to become an expert in a programming languages JavaScript, Typescript , master them and other frameworks (React.js, Node.js, Express.js)
+- 🎓 &nbsp; Certificate of Completion The Git & Github Bootcamp (2022) on Udemy
 - 🎓 &nbsp; Certificate of Completion The Modern Javascript Bootcamp (2022) on Udemy
 - 🎓 &nbsp; Certificate of Completion The Web Developer Bootcamp (2022) on Udemy
 - 🌱 &nbsp; I’m really excited about the prospect of learning and acquiring new skills.

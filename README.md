@@ -45,11 +45,12 @@
 
 <h3> 🖥️ &nbsp; My projects </h3>
 - 🏕️ &nbsp; <a href="https://yelp-camp2022-gw.herokuapp.com/">YelpCamp</a>
-- 🏕️ &nbsp; <a href="https://grzegorz-wolfinger-portfoliov2.vercel.app/">Portfolio v2.0</a>
-- 🏕️ &nbsp; <a href="https://react-admin-panel-rc.vercel.app/">Admin Panel</a>
-- 🏕️ &nbsp; <a href="https://js-apps-movie-fight.vercel.app/">MovieFight</a>
-- 🏕️ &nbsp; <a href="https://js-lifecounter.vercel.app/">Life Counter</a>
-- 🏕️ &nbsp; <a href="https://grzegorz-wolfinger.vercel.app/">Portfolio v1.0</a>
+- 💼 &nbsp; <a href="https://grzegorz-wolfinger-portfoliov2.vercel.app/">Portfolio v2.0</a>
+- 🔑 &nbsp; <a href="https://react-admin-panel-rc.vercel.app/">Admin Panel</a>
+- 🎥 &nbsp; <a href="https://js-apps-movie-fight.vercel.app/">MovieFight</a>
+- 🎲 &nbsp; <a href="https://js-lifecounter.vercel.app/">Life Counter</a>
+- 💼 &nbsp; <a href="https://grzegorz-wolfinger.vercel.app/">Portfolio v1.0</a>
+- 🚧 &nbsp; <a href="https://react-ts-mtg.vercel.app/">Mtg Card Game</a>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

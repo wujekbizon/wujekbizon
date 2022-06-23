@@ -3,8 +3,10 @@
 
 <h3> 🧑🏻‍💻 &nbsp;About Me </h3>
 
-- ⌨️ &nbsp; I'm looking for a position as an entry-level web developer.
-- 🤔 &nbsp; My career goal as a software developer is to become an expert in a programming languages JavaScript, Typescript , master them and other frameworks (React.js, Node.js, Express.js)
+- ⌨️ &nbsp; I'm looking for a position as an entry-level web developer. I enjoy bridging the gap between engineering and design — combining my technical knowledge with   my keen eye for designing, to create a beautiful , user friendly products that are scalable and efficient.
+- 🤔 &nbsp;My career goal as a software developer is to become an expert in a programming languages JavaScript and Typescript master them and other frameworks (React.js, Node.js, Express.js). I’m excited to work on new projects, because I learn something new every time.
+
+- 🎓 &nbsp; Certificate of Completion Modern React with Redux on Udemy
 - 🎓 &nbsp; Certificate of Completion Typescript: The Complete Developer's Guide on Udemy
 - 🎓 &nbsp; Certificate of Completion The Git & Github Bootcamp (2022) on Udemy
 - 🎓 &nbsp; Certificate of Completion The Modern Javascript Bootcamp (2022) on Udemy
@@ -14,10 +16,13 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![REACT](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![REDUX](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)    
@@ -40,12 +45,18 @@
 
 <h3> 🖥️ &nbsp; My projects </h3>
 - 🏕️ &nbsp; <a href="https://yelp-camp2022-gw.herokuapp.com/">YelpCamp</a>
+- 🏕️ &nbsp; <a href="https://grzegorz-wolfinger-portfoliov2.vercel.app/">Portfolio v2.0</a>
+- 🏕️ &nbsp; <a href="https://react-admin-panel-rc.vercel.app/">Admin Panel</a>
+- 🏕️ &nbsp; <a href="https://js-apps-movie-fight.vercel.app/">MovieFight</a>
+- 🏕️ &nbsp; <a href="https://js-lifecounter.vercel.app/">Life Counter</a>
+- 🏕️ &nbsp; <a href="https://grzegorz-wolfinger.vercel.app/">Portfolio v1.0</a>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
  
-<a href="https://grzegorz-wolfinger.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Grzegorz%20Wolfinger-orange?style=for-the-badge&logo=gitbook"></a> 
+<a href="https://grzegorz-wolfinger-portfoliov2.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Grzegorz%20Wolfinger-orange?style=for-the-badge&logo=gitbook"></a> 
   <br>
 <a href="https://www.linkedin.com/in/grzegorz-wolfinger-b88856229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Grzegorz%20Wolfinger%20-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:grzegorz.wolfinger@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-grzegorz.wolfinger@gmail.com-blue?style=for-the-badge&logo=gmail"></a>

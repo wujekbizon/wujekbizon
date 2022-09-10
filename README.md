@@ -38,13 +38,6 @@
 <h3> NPM Published Applications </h3>
 <a href="https://www.npmjs.com/package/wolfpad/"><img alt="Wolfpad" src="https://img.shields.io/badge/npm-wolfpad%201.3.3-red?style=flat"></a>
 <br/>
-<hr/>
-<a href="https://github.com/wujekbizon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=buefy&layout=compact" />
-</a>
-<hr/>
-<br/>
 <h3> 🖥️ &nbsp; My projects </h3>
 - 🎥 &nbsp; <a href="https://rmdb-gw.vercel.app/">RMDB</a>
 - 🛍️ &nbsp; <a href="https://gw-comfy.netlify.app/">Comfy</a>
@@ -59,6 +52,13 @@
 - 🎲 &nbsp; <a href="https://js-lifecounter.vercel.app/">Life Counter</a>
 - 💼 &nbsp; <a href="https://grzegorz-wolfinger.vercel.app/">Portfolio v1.0</a>
 - 🚧 &nbsp; <a href="https://react-ts-mtg.vercel.app/">Mtg Card Game</a>
+
+<hr/>
+<a href="https://github.com/wujekbizon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=buefy&layout=compact" />
+</a>
+<hr/>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

@@ -39,7 +39,7 @@
 <a href="https://www.npmjs.com/package/wolfpad/"><img alt="Wolfpad" src="https://img.shields.io/badge/npm-wolfpad%201.3.3-red?style=flat"></a>
 <br/>
 <h3> 🖥️ &nbsp; My projects </h3>
-- 🎥 &nbsp; <a href="https://rmdb-gw.vercel.app/">RMDB</a>
+- 🎥 &nbsp; <a href="https://rmdb-gw.vercel.app/">🎥RMDB</a>
 - 🛍️ &nbsp; <a href="https://gw-comfy.netlify.app/">Comfy</a>
 - 🥞 &nbsp; <a href="https://smakus.vercel.app/">Smakus</a> 🥗 🍲
 - 💻 &nbsp; <a href="https://react-github-users-gw.vercel.app/">Github Users</a>

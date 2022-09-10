@@ -16,8 +16,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-<!--   ![REACT](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
-  ![REACT](https://img.shields.io/badge/npm-wolfpad%201.3.3-red?style=flat)
+  ![REACT](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![REDUX](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
@@ -38,7 +37,7 @@
 <br/>
 <h3> NPM Published Applications </h3>
 - 🌐 &nbsp;
-![Npm](https://img.shields.io/badge/npm-wolfpad%201.3.3-red) 
+![REACT](https://img.shields.io/badge/npm-wolfpad%201.3.3-red?style=flat)
 <a href="https://www.npmjs.com/package/wolfpad/">Wolfpad</a>
 <br/>
 

@@ -35,19 +35,21 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
 <h3> NPM Published Applications </h3>
-- 📓 <a href="https://www.npmjs.com/package/wolfpad/">Wolfpad</a>
+- 📓 ![Npm](https://img.shields.io/badge/npm-wolfpad%201.3.3-red) <a href="https://www.npmjs.com/package/wolfpad/">Wolfpad</a>
+<br/>
 
+<hr/>
 <a href="https://github.com/wujekbizon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=buefy&layout=compact" />
 </a>
-
+<hr/>
 <br/>
 
-
 <h3> 🖥️ &nbsp; My projects </h3>
+- 🎥 &nbsp; <a href="https://rmdb-gw.vercel.app/">RMDB</a>
+- 🛍️ &nbsp; <a href="https://gw-comfy.netlify.app/">Comfy</a>
 - 🥞 &nbsp; <a href="https://smakus.vercel.app/">Smakus</a> 🥗 🍲
 - 💻 &nbsp; <a href="https://react-github-users-gw.vercel.app/">Github Users</a>
 - 🏢 &nbsp; <a href="https://react-jobster.vercel.app/">Jobster</a>

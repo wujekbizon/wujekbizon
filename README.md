@@ -16,7 +16,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![REACT](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<!--   ![REACT](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+  ![REACT](https://img.shields.io/badge/npm-wolfpad%201.3.3-red?style=flat)
   ![REDUX](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)

@@ -36,12 +36,16 @@
 
 <br/>
 
+<h3> NPM Published Applications </h3>
+- 📓 <a href="https://www.npmjs.com/package/wolfpad/">Wolfpad</a>
+
 <a href="https://github.com/wujekbizon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=buefy&layout=compact" />
 </a>
 
 <br/>
+
 
 <h3> 🖥️ &nbsp; My projects </h3>
 - 🥞 &nbsp; <a href="https://smakus.vercel.app/">Smakus</a> 🥗 🍲

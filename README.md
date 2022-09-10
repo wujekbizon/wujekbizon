@@ -41,17 +41,16 @@
 <h3> 🖥️ &nbsp; My projects </h3>
 <a href="https://rmdb-gw.vercel.app/">🎥RMDB</a> | 
 <a href="https://gw-comfy.netlify.app/">🛍️Comfy</a> |
-- 🥞 &nbsp; <a href="https://smakus.vercel.app/">Smakus</a> 🥗 🍲
-- 💻 &nbsp; <a href="https://react-github-users-gw.vercel.app/">Github Users</a>
-- 🏢 &nbsp; <a href="https://react-jobster.vercel.app/">Jobster</a>
-- 🛍️ &nbsp; <a href="https://react-mwd-store.vercel.app/">MWD.Store</a>
-- 🏕️ &nbsp; <a href="https://yelp-camp2022-gw.herokuapp.com/">YelpCamp</a>
-- 💼 &nbsp; <a href="https://grzegorz-wolfinger-portfoliov2.vercel.app/">Portfolio v2.0</a>
-- 🔑 &nbsp; <a href="https://adminpanelmwd.herokuapp.com/">Admin Panel</a>
-- 🎥 &nbsp; <a href="https://js-apps-movie-fight.vercel.app/">MovieFight</a>
-- 🎲 &nbsp; <a href="https://js-lifecounter.vercel.app/">Life Counter</a>
-- 💼 &nbsp; <a href="https://grzegorz-wolfinger.vercel.app/">Portfolio v1.0</a>
-- 🚧 &nbsp; <a href="https://react-ts-mtg.vercel.app/">Mtg Card Game</a>
+<a href="https://smakus.vercel.app/">🥗Smakus</a> |
+<a href="https://react-github-users-gw.vercel.app/">💻Github Users</a> |
+<a href="https://react-jobster.vercel.app/">🏢Jobster</a> |
+<a href="https://react-mwd-store.vercel.app/">🛋️MWD.Store</a> |
+<a href="https://yelp-camp2022-gw.herokuapp.com/">🏕️YelpCamp</a> |
+<a href="https://grzegorz-wolfinger-portfoliov2.vercel.app/">💼Portfolio</a> |
+<a href="https://adminpanelmwd.herokuapp.com/">🔑Admin Panel</a> |
+<a href="https://js-apps-movie-fight.vercel.app/">🎥MovieFight</a> |
+<a href="https://js-lifecounter.vercel.app/">🎲Life Counter</a> |
+<a href="https://react-ts-mtg.vercel.app/">🚧 Mtg Card Game🚧 </a>
 
 <hr/>
 <a href="https://github.com/wujekbizon">

@@ -36,7 +36,7 @@
 
 <br/>
 <h3> NPM Published Applications </h3>
--![NPM](https://img.shields.io/badge/npm-wolfpad%201.3.3-red) <a href="https://www.npmjs.com/package/wolfpad/">Wolfpad</a>
+- ![NPM](https://img.shields.io/badge/npm-wolfpad%201.3.3-red) <a href="https://www.npmjs.com/package/wolfpad/">Wolfpad</a>
 <br/>
 
 <hr/>

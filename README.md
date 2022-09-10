@@ -37,10 +37,7 @@
 <br/>
 <h3> NPM Published Applications </h3>
 <a href="https://www.npmjs.com/package/wolfpad/"><img alt="Wolfpad" src="https://img.shields.io/badge/npm-wolfpad%201.3.3-red?style=flat"></a>
-<a href="https://g-w.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Grzegorz%20Wolfinger-orange?style=for-the-badge&logo=gitbook"></a>
-
 <br/>
-
 <hr/>
 <a href="https://github.com/wujekbizon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=buefy&show_icons=true" />
@@ -48,7 +45,6 @@
 </a>
 <hr/>
 <br/>
-
 <h3> 🖥️ &nbsp; My projects </h3>
 - 🎥 &nbsp; <a href="https://rmdb-gw.vercel.app/">RMDB</a>
 - 🛍️ &nbsp; <a href="https://gw-comfy.netlify.app/">Comfy</a>

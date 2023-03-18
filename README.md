@@ -72,8 +72,11 @@ My latest project - <a href="https://wolfpad.vercel.app/"><img alt="Wolfpad" src
 
 <hr/>
 <a href="https://github.com/wujekbizon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=buefy&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=tokyonight&show_icons=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=tokyonight&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=wujekbizon&theme=tokyonight&repo=create-socket-app" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=wujekbizon&theme=tokyonight&repo=socket" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=wujekbizon&theme=tokyonight&repo=next-wolfpad" />
 </a>
 <hr/>
 

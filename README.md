@@ -71,13 +71,19 @@ My latest project - <a href="https://wolfpad.vercel.app/"><img alt="Wolfpad" src
 <a href="https://react-ts-mtg.vercel.app/">🚧 Mtg Card Game🚧 </a>
 
 <hr/>
-<a href="https://github.com/wujekbizon">
+ <a href="https://github.com/wujekbizon/">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=wujekbizon&theme=tokyonight&show_icons=true" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujekbizon&theme=tokyonight&layout=compact" />
+ </a>
+  <a href="https://github.com/wujekbizon/create-socket-app">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=wujekbizon&theme=tokyonight&repo=create-socket-app" />
+  </a>
+  <a href="https://github.com/wujekbizon/socket">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=wujekbizon&theme=tokyonight&repo=socket" />
+  </a>
+  <a href="https://github.com/wujekbizon/next-wolfpad">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=wujekbizon&theme=tokyonight&repo=next-wolfpad" />
-</a>
+  </a>
 <hr/>
 
 
